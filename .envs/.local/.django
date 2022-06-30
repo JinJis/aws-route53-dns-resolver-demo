@@ -1,7 +1,5 @@
 # General
 # ------------------------------------------------------------------------------
-USE_DOCKER=yes
-ENABLE_DOCS=True
 ENABLE_DEBUG_TOOLBAR=True
 
 # Redis
